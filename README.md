@@ -1,0 +1,1 @@
+# xfriend-be-template-core
